@@ -253,7 +253,7 @@ body {
     justify-content: center;
     overflow: hidden;
     background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, var(--background) 50%, rgba(139, 92, 246, 0.1) 100%);
-    padding: 5rem 0;
+    padding: 2rem 0;
 }
 
 .hero-background {
